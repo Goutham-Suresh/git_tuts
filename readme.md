@@ -8,6 +8,6 @@
 # git checkout -b new_Name
 
 # create a new repository in our account
-# use the last 2 commands in instruction :
-# git push -u origin master
 # git remote add origin https://github.com/Goutham2001/repo_Name.git
+# to push: git push -u origin master
+# to pull: git pull origin master
