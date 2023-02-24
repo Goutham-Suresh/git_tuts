@@ -6,3 +6,6 @@
 
 # TO Change Branch:
 # git checkout -b new_Name
+
+# create a new repository in our account
+# use the last 2 commands in instruction 
