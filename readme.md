@@ -11,3 +11,6 @@
 # git remote add origin https://github.com/Goutham2001/repo_Name.git
 # to push: git push -u origin master
 # to pull: git pull origin master
+
+#to remove connected origin:
+# git remote remove origin
