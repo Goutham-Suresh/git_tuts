@@ -12,5 +12,4 @@
 # to push: git push -u origin master
 # to pull: git pull origin master
 
-#to remove connected origin:
-# git remote remove origin
+# to remove connected origin:  git remote remove origin
